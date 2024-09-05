@@ -36,6 +36,12 @@ let dados = [
         nota: '8.9'
     },
     {
+        titulo: 'O Senhor dos Anéis: As Duas Torres',
+        descricao: 'O Senhor dos Anéis: As Duas Torres é a emocionante continuação da trilogia épica de Peter Jackson, baseada na obra de J.R.R. Tolkien. Após a trágica separação da Sociedade do Anel, o filme acompanha Frodo e Sam em sua jornada perigosíssima para Mordor, enquanto são perseguidos pelo enigmático Gollum. Paralelamente, Aragorn, Legolas e Gimli partem em uma missão para resgatar Merry e Pippin, que foram capturados por orcs.',
+        link: 'https://www.imdb.com/title/tt0167261/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_two%2520to',
+        nota: '8.8'
+    },
+    {
         titulo: 'Coringa',
         descricao: '"Coringa" é um filme psicológico que mergulha na mente torturada de Arthur Fleck, um comediante fracassado em Gotham City. A trama explora a transformação de Arthur em um dos vilões mais icônicos dos quadrinhos, o Coringa. Com uma atuação magistral de Joaquin Phoenix, o filme apresenta uma visão sombria e realista da origem do personagem, explorando temas como alienação social, saúde mental e a violência urbana. A direção de Todd Phillips cria uma atmosfera opressiva e claustrofóbica, intensificando a jornada de Arthur rumo à loucura.',
         link: 'https://www.imdb.com/title/tt7286456/?ref_=nv_sr_srsg_2_tt_6_nm_0_in_0_q_joker',
