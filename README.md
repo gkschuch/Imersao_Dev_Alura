@@ -1,4 +1,4 @@
-## README Descontraído: Busca de Filmes e Séries
+## Busca de Filmes e Séries
 
 ### O que faz essa aplicação?
 
