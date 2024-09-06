@@ -38,5 +38,4 @@ Quer ajudar a melhorar essa aplicação? Fique à vontade para fazer um fork e e
 
 **Vamos juntos tornar essa aplicação ainda mais incrível!**
 
-**Gabriel Karini Schuch**
-**[Seu link para o GitHub]**
+Gabriel Karini Schuch - [Github](https://github.com/gkschuch) - gksgabriel2004@gmail.com
